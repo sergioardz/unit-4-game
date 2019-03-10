@@ -1,0 +1,88 @@
+div {
+    padding: 6px;
+}
+
+#wrapper {
+    display: block;
+    max-width: 460px;
+}
+
+#container1 {
+    display: inline-block;
+    width: 446px;
+    height: 80px;
+}
+
+#rnumber, #spacerv, #scores {
+    float: left;
+}
+
+#rnumber {
+    width: 300px;
+    height: 70px;
+}
+
+#scores {
+    width: 90px;
+    height: 70px;
+    background-color: darkblue;
+    color: white;
+}
+
+#scoremessage {
+    max-width: 460px;
+}
+
+#header, #instructions {
+    max-width: 460px;
+}
+
+#spacer {
+    max-width: 460px;
+}
+
+#spacerv {
+    width: 3px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+p {
+    font-size: 12px;
+}
+
+#guessnumber {
+    height: 70px;
+    width: 430px;
+}
+
+#scoremessage {
+    font-weight: bold;
+    text-align: center;
+    color: darkblue;
+}
+
+body {
+    background-image: url("../images/background.jpg")
+}
+
+#instructions {
+    color: blue;
+}
+
+#rnumber, #guessnumber {
+    font-size: 60px;
+    font-weight: bold;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#header {
+    text-align: center;
+}
