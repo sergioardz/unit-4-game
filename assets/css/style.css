@@ -86,28 +86,3 @@ body {
 #header {
     text-align: center;
 }
-
-input {
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    }
-
-/* @media screen and (max-width: 468px) {
-    img {
-        width: 32px;
-        height: 32px;
-    }
-
-    p {
-        font-size: 16px;
-    }
-
-    h1 {
-        font-size: 36px;
-    }
-
-    #instructions {
-        max-width: 460px;
-    }
-} */
