@@ -91,6 +91,10 @@ button {
     -webkit-appearance: none;
 }
 
+#crystal1, #crystal2, #crystal3, #crystal4 {
+    -webkit-appearance: none;
+}
+
 /* @media screen and (max-width: 468px) {
     img {
         width: 32px;
