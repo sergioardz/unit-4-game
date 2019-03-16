@@ -89,7 +89,8 @@ body {
 
 @media screen and (max-width: 640px) {
     img {
-        width: 82px;
+        width: 66px;
+        height: 66px;
     }
 
     p {
