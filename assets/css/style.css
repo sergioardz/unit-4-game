@@ -86,7 +86,7 @@ body {
 #header {
     text-align: center;
 }
-
+/* 
 @media screen and (max-width: 468px) {
     img {
         width: 87px;
@@ -99,4 +99,4 @@ body {
     h1 {
         font-size: 36px;
     }
-}
+} */
