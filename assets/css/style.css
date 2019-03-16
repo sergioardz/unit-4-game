@@ -87,11 +87,7 @@ body {
     text-align: center;
 }
 
-button {
-    -webkit-appearance: none;
-}
-
-#crystal1, #crystal2, #crystal3, #crystal4 {
+input[type="button"] {
     -webkit-appearance: none;
 }
 
