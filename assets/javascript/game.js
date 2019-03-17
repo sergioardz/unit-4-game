@@ -33,11 +33,13 @@ $(document).ready(function () {
     function youwin() {
         wins++;
         $("#wins").html("Wins: " + wins);
+        $("#message").html("You won!");
         start();
     }
     function youlose() {
         losses++;
         $("#losses").html("Losses: " + losses);
+        $("#message").html("You lost!");
         start();
     }
     $("#crystal1").on("click", function () {
